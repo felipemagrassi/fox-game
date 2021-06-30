@@ -1,0 +1,12 @@
+{
+  "name": "fox-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Felipe Magrassi <felipe.1magrassi@gmail.com>",
+  "license": "ISC",
+  "description": ""
+}
