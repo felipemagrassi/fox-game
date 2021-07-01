@@ -1,2 +1,5 @@
 project-files-for-fox-game/
 node_modules/
+.cache/
+dist/
+.vscode/
