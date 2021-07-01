@@ -7,6 +7,7 @@ import { TICK_RATE } from "./constants";
  * then we create a endless closure loop calling requestAnimationFrame inside the closure function
  */
 async function init() {
+  // eslint-disable-next-line no-console
   console.log("starting game");
   initButtons(handleUserAction);
 
